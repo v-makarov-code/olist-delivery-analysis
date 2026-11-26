@@ -1,0 +1,7 @@
+# Исходный архив Olist и локальные данные
+/data/
+olist_*_dataset.csv
+brazilian-ecommerce.zip
+
+# Временные файлы Excel
+~$*.xlsx
